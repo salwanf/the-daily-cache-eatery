@@ -1,0 +1,64 @@
+no_pesanan,meja,nama_menu,qty,tgl_transaksi
+1,Meja 2,kopi susu,1,02-07-2026
+2,,Roti Bakar ,-2,01-07-2026
+3,Meja 5,Roti bakar,4,03/07/2026
+4,Meja 2,MIE GORENG,3,2026-07-02
+5,Meja 1,NASI GORENG,5,2026-07-02
+6,Meja 5,ROTI BAKAR,3,02-07-2026
+7,Meja 1,KOPI SUSU,1,2026-07-06
+8,Meja 3,Es Teh,1,09/07/2026
+9,Meja 3,ES TEH,5,2026-07-01
+10,Meja 4,es teh,2,06-07-2026
+11,Meja 4, Es teh,2,09-07-2026
+12,Meja 4,Nasi Goreng,2,01/07/2026
+13,Meja 4,KOPI SUSU,4,2026-07-09
+14,Meja 1,nasi goreng,5,06-07-2026
+15,Meja 4,Kopi Susu,,05-07-2026
+16,Meja 1,Roti bakar,3,10-07-2026
+17,Meja 2,ES TEH,5,06-07-2026
+18,Meja 99,mie goreng,3,10/07/2026
+19,Meja 1,kopi susu,5,08/07/2026
+20,Meja 5,Roti bakar,2,04-07-2026
+21,Meja 3,Nasi Goreng,5,04/07/2026
+22,,Kopi Susu,5,01/07/2026
+23,Meja 3,es teh,-2,08-07-2026
+24,Meja 5,ES TEH,2,2026-07-04
+25,Meja 3,kopi susu,4,02/07/2026
+26,Meja 1,kopi Susu ,2,07/07/2026
+27,Meja 1,Es Teh,5,09-07-2026
+28,Meja 2,kopi susu,4,2026-07-01
+29,, Es teh,4,09-07-2026
+30,Meja 2,Mie Goreng,5,06/07/2026
+31,Meja 5,kopi susu,5,02-07-2026
+32,Meja 2,es teh,5,01-07-2026
+33,Meja 5,roti bakar,3,06/07/2026
+34,Meja 3,Es Teh,1,invalid_date
+35,,roti bakar,3,2026-07-02
+36,Meja 4,Es Teh,3,09-07-2026
+37,Meja 1,Kopi Susu,2,09/07/2026
+38,Meja 2,Es Teh,2,2026-07-09
+39,Meja 1,MIE GORENG,-2,2026-07-01
+40,Meja 3,Kopi Susu,4,2026-07-09
+41,,kopi susu,2,2026-07-10
+42,Meja 1,Roti bakar,1,04/07/2026
+43,Meja 4,Kopi Susu,2,03/07/2026
+44,, Es teh,3,2026-07-04
+45,Meja 1,Nasi goreng,1,04/07/2026
+46,Meja 2,MIE GORENG,2,2026-07-02
+47,Meja 4,NASI GORENG,5,02/07/2026
+48,Meja 3,Nasi goreng,,2026-07-06
+49,Meja 5,mie goreng,1,09/07/2026
+50,Meja 1,Roti bakar,3,02-07-2026
+51,Meja 3,NASI GORENG,3,07/07/2026
+52,Meja 3,Mie Goreng,1,07/07/2026
+53,Meja 4,ROTI BAKAR,5,03-07-2026
+54,Meja 5,Kopi Susu,2,04/07/2026
+55,,es teh,5,08/07/2026
+56,Meja 4,Mie Goreng,2,01-07-2026
+57,Meja 5,kopi Susu ,5,08/07/2026
+58,Meja 5, Es teh,4,09-07-2026
+59,Meja 4,mie Goreng ,2,2026-07-09
+60,Meja 1,Mie Goreng,2,2026-07-09
+6,Meja 5,ROTI BAKAR,3,02-07-2026
+21,Meja 3,Nasi Goreng,5,04/07/2026
+36,Meja 4,Es Teh,3,09-07-2026
